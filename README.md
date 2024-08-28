@@ -1,3 +1,3 @@
-# Assignment_5
+# Uncovering the Link Between Geographic Speciation and Evolutionary Relatedness Within the Genus Anas 
 
-Assignment to understand the evolutionary relationships between different duck (Anas) species in terms of geography. Work was done using R.
+Aiming to understand the evolutionary relationships between different duck (Anas) species in terms of geography. Work was done using R.
